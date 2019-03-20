@@ -62,7 +62,5 @@ public class FolhaService {
 		 em.remove(folha);
 		 em.getTransaction().commit();
 	 }
-	//Classe Service que evoca o repositório e contém a lógica de negócio do 
-	//projeto para deixar o código da classe controller enxuto e mais limpo),
 	
 }
